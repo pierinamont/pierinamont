@@ -23,7 +23,7 @@ Actualmente me estoy preparando para ser Front-end Developer 👩‍💻 <br><br
 💬 Un poco sobre mí:<br>
 
 Estudié `administración y marketing`, en el camino descubrí el `diseño` y luego el `desarrollo Front-end` que concidero una pasión.<br>
-Me fascina la idea de poder juntar estas áreas para crear y desarrollar productos digitales. ⚡ <br><br>
+Me emociona la idea de poder juntar estas áreas para crear y desarrollar productos digitales. ⚡ <br><br>
 
 [![graphic-8.png](https://i.postimg.cc/Wb7W4328/graphic-8.png)](https://postimg.cc/nCCYRn99)
 
