@@ -1,34 +1,37 @@
 
-## Hola! 👋 Soy Pierina
-> Aprendiendo constantemente ✨ 
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Pierina 
+>Constant learning ⭐
 
-<br>
-Actualmente me estoy preparando para ser Front-end Developer 👩‍💻 <br><br>
+<p><em>I am currently in the <a href="https://www.laboratoria.la/">Laboratoria</a> bootcamp, where I am preparing myself to become a Front-End developer.</em> 👩‍💻</p>
 
-🕵 Lenguajes y herramientas que estoy aprendiendo:
-* HTML
-* CSS
-* JavaScript
-* Figma
 
-[![graphic-8.png](https://i.postimg.cc/Wb7W4328/graphic-8.png)](https://postimg.cc/nCCYRn99)
+<strong> 🚀 Languages and tools I am learning:</strong>
+```javascript
+const Learning = {
+  Languages: [Javascript, HTML, CSS],
+  tools: [Figma, Git, GitHub, Node, Firebase, Jest]
+}
+```
+
+---
+### My GitHub Stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ![Pierina's GitHub stats](https://github-readme-stats.vercel.app/api?username=pierinamont&hide=contribs,prs&theme=buefy&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pierinamont&layout=compact&theme=buefy)](https://github.com/pierinamont/github-readme-stats)
 
-[![graphic-8.png](https://i.postimg.cc/Wb7W4328/graphic-8.png)](https://postimg.cc/nCCYRn99)
+---
+### 💬 A little about me:
 
+I studied `management and marketing`, along the way I discovered `design` and then `Front-end development`, which I consider a passion.
+I am excited about the idea of being able to bring these areas together to create and develop digital solutions. ⚡ <br><br>
 
-💬 Un poco sobre mí:<br>
+---
+### Let's connect!
 
-Estudié `administración y marketing`, en el camino descubrí el `diseño` y luego el `desarrollo Front-end` que concidero una pasión.<br>
-Me emociona la idea de poder juntar estas áreas para crear y desarrollar productos digitales. ⚡ <br><br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierina-montalva-fatur/)](https://www.linkedin.com/in/pierina-montalva-fatur/) 
+ [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:pierinamontalva@gmail.com)
 
-[![graphic-8.png](https://i.postimg.cc/Wb7W4328/graphic-8.png)](https://postimg.cc/nCCYRn99)
-
-👾 [LinkedIn](https://www.linkedin.com/in/pierina-montalva-fatur/ "LinkedIn") <br>
-👾 [Codepen](https://codepen.io/pierinamood "Codepen")
 
 <!--
 **pierinamont/pierinamont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
