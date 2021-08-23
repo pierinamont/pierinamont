@@ -7,7 +7,7 @@
 
 <strong> 🚀 Languages and tools I am learning:</strong>
 ```javascript
-const Learning = {
+const learning = {
   languages: [Javascript, HTML, CSS],
   tools: [Figma, Git, GitHub, Node, Firebase, Jest]
 }
