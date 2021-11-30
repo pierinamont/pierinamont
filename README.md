@@ -1,6 +1,5 @@
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Pierina 
->Constant learning ⭐
 
 <p>I am a front-end developer 👩‍💻 who graduated from <a href="https://www.laboratoria.la/">Laboratoria</a> Bootcamp and I am in constant learning.⭐</p>
 
