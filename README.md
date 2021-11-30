@@ -2,14 +2,14 @@
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Pierina 
 >Constant learning ⭐
 
-<p><em>I am currently studying in <a href="https://www.laboratoria.la/">Laboratoria</a>, where I am preparing myself to become a Front-End Web Developer.</em> 👩‍💻</p>
-
+<p>I am a front-end developer 👩‍💻 who graduated from <a href="https://www.laboratoria.la/">Laboratoria</a> Bootcamp and I am in constant learning.⭐</p>
 
 <strong> 🚀 Languages and tools I am learning:</strong>
 ```javascript
 const learning = {
   languages: [Javascript, HTML, CSS],
-  tools: [Figma, Git, GitHub, Node, Firebase, Jest]
+  tools: [Figma, Git, GitHub, Node, Firebase, Jest],
+  frameworks: [Vue, React]
 }
 ```
 ---
