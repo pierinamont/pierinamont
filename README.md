@@ -7,8 +7,7 @@
 ```javascript
 const learning = {
   languages: [Javascript, HTML, CSS],
-  tools: [Figma, Git, GitHub, Node, Firebase, Jest, Tailwind],
-  frameworks: [Vue, React]
+  tools: [Figma, Git, GitHub, Node, Firebase, Jest, Tailwind, VueJS]
 }
 ```
 ---
