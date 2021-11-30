@@ -28,9 +28,6 @@ I am excited about the idea of being able to bring these areas together to creat
 ### Let's connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierina-montalva-fatur/)](https://www.linkedin.com/in/pierina-montalva-fatur/) 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:pierinamontalva@gmail.com)
-
-
 <!--
 **pierinamont/pierinamont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
