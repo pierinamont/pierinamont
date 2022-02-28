@@ -1,7 +1,7 @@
 
 ##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World! I'm Pierina 
 
-<p>I'm a front-end developer 👩‍💻 who graduated from <a href="https://www.laboratoria.la/">Laboratoria</a> Bootcamp and I'm in constant learning.⭐</p>
+<p>I'm a front-end developer 👩‍💻 who graduated from <a href="https://www.laboratoria.la/">Laboratoria</a> Bootcamp.</p>
 
 <strong> 🚀 Languages and tools I am learning:</strong>
 ```javascript
