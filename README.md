@@ -1,7 +1,7 @@
 
 ##  Hola mundo! Soy Pierina 
 
-<p>Soy front-end developer 👩‍💻.</p>
+<p>Soy Desarrolladora Web 👩‍💻.</p>
 
 <strong> 🚀 Lenguajes y herramientas que estoy aprendiendo:</strong>
 ```javascript
