@@ -6,8 +6,8 @@
 <strong> 🚀 Lenguajes y herramientas que estoy aprendiendo:</strong>
 ```javascript
 const learning = {
-  languages: [Javascript, HTML, CSS],
-  tools: [Figma, Framer, Git, GitHub, Node, Firebase, Jest, Tailwind, VueJS]
+  languages: ["Javascript", "HTML", "CSS"],
+  tools: ["Figma", "Framer", "Git", "GitHub", "Node", "Firebase", "Jest", "Tailwind", "VueJS"]
 }
 ```
 ---
